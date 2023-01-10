@@ -1,2 +1,2 @@
 # Project-html-css
-This is a sample project with html and css
+This is a simple project with html and css
